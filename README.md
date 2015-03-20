@@ -1,3 +1,3 @@
-//Salvador Antonio Marquez Hernandez
-//Carlos Francisco Flores Gonzalez
+*Salvador Antonio Marquez Hernandez <br>
+*Carlos Francisco Flores Gonzalez
 
